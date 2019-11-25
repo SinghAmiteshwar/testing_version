@@ -2661,8 +2661,8 @@
           "name" : "ListDatabaseTables",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : -165.1383709845859,
-            "y" : -26.832916776958314
+            "x" : -323.15059327462495,
+            "y" : -5.963379423442689
           },
           "properties" : {
             "list-db-tables-db-connection" : "627dfa38-8935-3753-bf4e-c788f3bac728",

@@ -1,5 +1,5 @@
 flows:
-  c738e206-14cd-409e-808e-3f0c5879a289: {ver: 1, file: testing.snapshot, comments: '',
-    author: anonymous, created: 1574666387651, flowName: testing, flowDesc: ''}
+  c738e206-14cd-409e-808e-3f0c5879a289: {ver: 2, file: testing.snapshot, comments: a,
+    author: anonymous, created: 1574666425907, flowName: testing, flowDesc: ''}
 layoutVer: 1
 bucketId: 23759128-2db6-4c96-9794-788937a01999
